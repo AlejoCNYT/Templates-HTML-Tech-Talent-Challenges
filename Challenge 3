@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario de Registro</title>
+</head>
+<body>
+    <!-- Inicio del contenido principal de la página -->
+
+    <h1>Formulario de Registro</h1>
+    <!-- Encabezado principal de nivel 1 que indica el propósito de la página -->
+
+    <!-- Inicia el formulario de registro -->
+    <form action="/submit" method="post">
+        <!-- Define un formulario HTML que enviará los datos a la URL especificada en el atributo action usando el método POST -->
+
+        <!-- Etiqueta y campo de entrada para el nombre -->
+        <label for="nombre">Nombre:</label>
+        <!-- Etiqueta para el campo de entrada del nombre. El atributo for debe coincidir con el id del campo de entrada para que la etiqueta esté correctamente vinculada al campo de entrada correspondiente -->
+        
+        <input type="text" id="nombre" name="nombre" required>
+        <!-- Campo de entrada de texto para el nombre. El atributo id es único y se usa para vincular este campo con la etiqueta correspondiente
+             El atributo name es el nombre del campo que se enviará al servidor junto con los datos del formulario
+             El atributo required especifica que este campo es obligatorio y debe completarse antes de enviar el formulario -->
+        
+        <br><br>
+        <!-- Dos saltos de línea para espaciar visualmente los elementos en el formulario -->
+
+        <!-- Etiqueta y campo de entrada para el email -->
+        <label for="email">Email:</label>
+        <!-- Etiqueta para el campo de entrada del email. El atributo for debe coincidir con el id del campo de entrada para que la etiqueta esté correctamente vinculada al campo de entrada correspondiente -->
+        
+        <input type="email" id="email" name="email" required>
+        <!-- Campo de entrada para el email. El tipo "email" valida que la entrada sea una dirección de correo electrónico válida
+             El atributo id es único y se usa para vincular este campo con la etiqueta correspondiente
+             El atributo name es el nombre del campo que se enviará al servidor junto con los datos del formulario
+             El atributo required especifica que este campo es obligatorio y debe completarse antes de enviar el formulario -->
+
+        <br><br>
+        <!-- Dos saltos de línea para espaciar visualmente los elementos en el formulario -->
+
+        <!-- Botón de envío del formulario -->
+        <button type="submit">Enviar</button>
+        <!-- Botón que envía el formulario. El tipo "submit" indica que es un botón de envío, lo que hace que se envíen los datos del formulario cuando se hace clic en él -->
+    </form>
+    <!-- Fin del formulario de registro -->
+</body>
+</html>
