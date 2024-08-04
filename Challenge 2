@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<!-- Esto indica que el documento es una página web HTML5. -->
+<html lang="es">
+<!-- Abre el documento HTML y establece que el idioma del contenido es español. -->
+
+<head>
+    <!-- La sección <head> contiene información sobre la página web que no se muestra directamente en la página. -->
+    <meta charset="UTF-8">
+    <!-- Define el conjunto de caracteres que la página usará, en este caso UTF-8. -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Esto ayuda a que la página se vea bien en dispositivos móviles ajustando el ancho de la vista. -->
+    <title>Tabla de Personas</title>
+    <!-- Esto es el título de la página que aparece en la pestaña del navegador. -->
+</head>
+
+<body>
+    <!-- La sección <body> contiene todo el contenido visible de la página web. -->
+    <h1>Información de Personas</h1>
+    <!-- Esto es un encabezado grande que muestra el título de la sección "Información de Personas". -->
+    <table border="1">
+        <!-- La etiqueta <table> define una tabla. El atributo border="1" agrega un borde alrededor de la tabla y sus celdas. -->
+        <thead>
+            <!-- La etiqueta <thead> agrupa el contenido del encabezado de una tabla. -->
+            <tr>
+                <!-- La etiqueta <tr> define una fila en la tabla. -->
+                <th>Nombre</th>
+                <!-- La etiqueta <th> define una celda de encabezado en la tabla que contiene "Nombre". -->
+                <th>Edad</th>
+                <!-- La etiqueta <th> define una celda de encabezado en la tabla que contiene "Edad". -->
+            </tr>
+        </thead>
+        <tbody>
+            <!-- La etiqueta <tbody> agrupa el contenido del cuerpo de una tabla. -->
+            <tr>
+                <!-- La etiqueta <tr> define una fila en la tabla. -->
+                <td>Alicia Vermúdez</td>
+                <!-- La etiqueta <td> define una celda en la tabla que contiene "Alicia Vermúdez". -->
+                <td>30</td>
+                <!-- La etiqueta <td> define una celda en la tabla que contiene "30". -->
+            </tr>
+            <tr>
+                <!-- La etiqueta <tr> define una fila en la tabla. -->
+                <td>Roberto Bolaños</td>
+                <!-- La etiqueta <td> define una celda en la tabla que contiene "Roberto Bolaños". -->
+                <td>23</td>
+                <!-- La etiqueta <td> define una celda en la tabla que contiene "23". -->
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
+<!-- Esto cierra el documento HTML. -->
