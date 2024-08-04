@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página Básica</title>
+</head>
+<body>
+    <!-- Encabezado principal de la página -->
+    <h1>Welcome to HTML!</h1>
+    <!-- Este es un encabezado de nivel 1, que normalmente se utiliza para el título principal de la página -->
+
+    <!-- Párrafo de la página -->
+    <p>¡Hola, mundo!</p>
+    <!-- Este es un párrafo que contiene el texto "¡Hola, mundo!" -->
+
+</body>
+</html>
