@@ -1,0 +1,25 @@
+<!doctype html>
+<!-- Esto indica que el documento es una página web HTML5. -->
+<html lang="es">
+    <!-- Esto abre el documento HTML y establece que el idioma es español. -->
+    <head>
+        <!-- La sección <head> contiene información sobre la página web. -->
+        <meta charset="UTF-8" />
+        <!-- Esto define el conjunto de caracteres que la página usará, en este caso UTF-8. -->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <!-- Esto ayuda a que la página se vea bien en dispositivos móviles ajustando el ancho de la vista. -->
+        <title>Daniel Alejandro Acero Varela</title>
+        <!-- Esto es el título de la página que aparece en la pestaña del navegador. -->
+    </head>
+    <body>
+        <!-- La sección <body> contiene todo el contenido visible de la página web. -->
+        <h1>D. Alejandro Ac</h1>
+        <!-- Esto es un encabezado grande que muestra el texto "D. Alejandro Ac". -->
+        <p>
+            Soy Alejo, quiero repasar programación y complementar un poco mis
+            conocimientos.
+        </p>
+        <!-- Esto es un párrafo que contiene un texto de presentación sobre ti. -->
+    </body>
+</html>
+<!-- Esto cierra el documento HTML. -->
