@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ciudades Favoritas</title>
+</head>
+<body>
+    <!-- Encabezado principal de la página -->
+    <h1>Mis Ciudades Favoritas</h1>
+
+    <!-- Lista ordenada de mis ciudades favoritas -->
+    <ol>
+        <!-- Primer elemento de la lista: Ciudad 1 -->
+        <li>Barcelona</li>
+        <!-- Segundo elemento de la lista: Ciudad 2 -->
+        <li>Tokio</li>
+        <!-- Tercer elemento de la lista: Ciudad 3 -->
+        <li>Ciudad de México</li>
+    </ol>
+</body>
+</html>
