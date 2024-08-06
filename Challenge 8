@@ -9,18 +9,23 @@
 <body>
     <h1>Ejemplo de Enlaces en HTML</h1>
     
-    <!-- Enlace a otra página web -->
+
     <p>
-        <a href="https://www.google.com" target="_blank">Ir a Google</a>
+      <ul>
+        <!-- Enlace a otra página web -->        
+        <li><a href="https://www.google.com" target="_blank">Ir a Google</a></li>
+        <!-- Enlace a otro email -->        
+        <li><a href="mailto:example@example.com">Enviar Correo Electrónico</a></li>
+            <!-- Enlace telefónico -->
+        <li><a href="tel:+1234567890">Llamar al +1234567890</a></li>
+      
+      </ul>
     </p>
        
-
-        <a href="mailto:example@example.com">Enviar Correo Electrónico</a>
-    </p>
     
-    <!-- Enlace telefónico -->
-    <p>
-        <a href="tel:+1234567890">Llamar al +1234567890</a>
-    </p>
+
+
+        
+    
 </body>
 </html>
