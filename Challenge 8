@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Ejemplo de Enlaces</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <h1>Ejemplo de Enlaces en HTML</h1>
+    
+    <!-- Enlace a otra página web -->
+    <p>
+        <a href="https://www.google.com" target="_blank">Ir a Google</a>
+    </p>
+       
+
+        <a href="mailto:example@example.com">Enviar Correo Electrónico</a>
+    </p>
+    
+    <!-- Enlace telefónico -->
+    <p>
+        <a href="tel:+1234567890">Llamar al +1234567890</a>
+    </p>
+</body>
+</html>
