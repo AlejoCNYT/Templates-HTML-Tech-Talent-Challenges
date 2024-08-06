@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Encabezados y párrafos</title>
+</head>
+<body>
+    <!-- Encabezado principal de la página -->
+    <h1>Encabezados y párrafos</h1>
+
+    <!-- Sección de presentación -->
+    <section id="presentation">
+        <!-- Encabezado secundario para la sección de presentación -->
+        <h2>Presentación</h2>
+        <!-- Párrafo descriptivo para la sección de presentación -->
+        <p>Este es un ejemplo.</p>
+    </section>
+    
+    <!-- Sección de pasatiempos -->
+    <section id="hobbies">
+        <!-- Encabezado secundario para la sección de pasatiempos -->
+        <h2>Mis pasatiempos</h2>
+        <!-- Párrafo descriptivo para la sección de pasatiempos -->
+        <p>Mis pasatiempos son los siguientes:</p>
+        <!-- Lista ordenada de pasatiempos -->
+        <ul>
+            <li>Programación</li>
+            <li>Deporte</li>
+            <li>Leer libros</li>
+        </ul>
+    </section>
+</body>
+</html>
