@@ -1,0 +1,52 @@
+<!--
+  Hit RUN to see this project in action!
+  
+  This project will auto-refresh as you edit the HTML, CSS and JS. See README.md for more info (including how to disable auto-refresh and install packages).
+-->
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Gallery</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <main>
+    <hr>
+    <h1>Gallery</h1>
+    <small><a href="https://ecofincaeleden.com/2022/06/17/plantas-y-flores-en-cundinamarca/">Cundinamarca</a>
+        y <a href="http://blogboyacaflorayfauna.blogspot.com/2015/08/flora-y-fauna-en-boyaca.html">Boyacá</a>
+        son regiones con una biodiversidad impresionante en Colombia. Aquí tienes algunas fotos representativas...</small>
+
+    <hr>
+    <h2 class="title">Cundinamarca</h2>
+    <small>Cundinamarca alberga una gran variedad de especies, con 15,880 especies observadas. Entre las especies más comunes se encuentran el <a href="https://encolombia.com/turismo/destinos-turisticos/destinos-colombianos/cundinamarca/parques-naturales-en-cundinamarca/">frailejón</a>
+        , <a href="https://www.periodicoecodecundinamarca.com/gobernacion-de-cundinamarca/">el oso de anteojos</a>, y diversas especies de <a href="https://www.goodreads.com/user/show/65187583-daniel-alejandro">orquídeas</a>
+        y <a href="https://www.las2orillas.co/tesoros-milagros-y-biodiversidad-natural-de-cundinamarca-y-boyaca/">colibríes</a>
+        . Los páramos y humedales de la región son hábitats cruciales para muchas de estas especies.</i>
+
+    <br>
+        Frailejón en Cundinamarca <i>Frailejón en los páramos de Cundinamarca</i>.</small>
+    <hr>
+    
+    <h2 class="title">Boyacá</h2>
+
+        <small>Boyacá también es muy rico en biodiversidad, con 11,731 especies observadas. En sus páramos se pueden encontrar especies emblemáticas como el <a href="https://ultimahoraboy.com/boyaca/especies-de-fauna-y-flora-amenazadas-en-boyaca/">frailejón</a>
+            y el <a href="https://boyaca7dias.com.co/2019/05/23/galeria-la-biodiversidad-en-boyaca-algo-de-la-flora-y-fauna-de-nuestro-departamento/">oso andino</a>
+            . Además, Boyacá es hogar de muchas <a href="https://www.minambiente.gov.co/asuntos-internacionales/en-cop-15-colombia-potencia-mundial-de-la-vida-buscara-mayor-financiacion-para-proteger-su-biodiversidad/">aves</a>
+            migratorias y especies endémicas.
+            <br>
+            <i>Andino en los páramos de Boyacá</i>
+            <br>
+            Estas regiones no solo son importantes por su biodiversidad, sino también por los esfuerzos de conservación que se llevan a cabo para proteger estas especies y sus hábitats.</small>
+        
+    <hr>
+  </main>
+  
+</body>
+
+</html>
