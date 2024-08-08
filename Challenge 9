@@ -1,0 +1,26 @@
+<!--
+  Hit RUN to see this project in action!
+  
+  This project will auto-refresh as you edit the HTML, CSS and JS. See README.md for more info (including how to disable auto-refresh and install packages).
+-->
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <main>
+    <hr>
+    <h1 class="title"><sup>Daniel</sup> <sub>Alejandro</sub> <del>Acero</del> <small>Varela</small></h1>
+    <h3 class="title"><strong>Soy</strong> <mark>estudiante</mark>. I'm <em>Happy.</em></h3>   
+  </main>
+  <hr>
+</body>
+
+</html>
