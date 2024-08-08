@@ -1,0 +1,72 @@
+<!--
+  Hit RUN to see this project in action!
+  
+  This project will auto-refresh as you edit the HTML, CSS and JS. See README.md for more info (including how to disable auto-refresh and install packages).
+-->
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Perfil profesional</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <main>
+    <br>
+    <hr>
+    <h3>Daniel Alejandro Acero Varela</h3>
+    <h5>Bussines Technologist</h5>
+    <hr>
+    <br>
+    <em>Contact:</em>
+    <br>
+    <br>
+    <ul>
+        <li><p>E-mail: <a href="mailto:tucorreo@ejemplo.com">danielalejandroacerovarela@outlook.com</a></p> </li>
+        <li><p>Whatsapp/Cell phone: <a href="tel:+573224112724">(+57) 3224112724</a></p></li>
+        <li><a href="https://www.linkedin.com/in/daniel-alejandro-acero-varela-903935127/">LinkedIn</a></lip></li>
+    </ul>
+    <br>
+    <hr>
+    <br>
+    <em>Skills</em>
+    <ul>
+        <li>HTML, CSS & JS</li>
+        <li>Python</li>
+        <li>Java</li>
+        <li>SQL</li>
+        <li>C</li>
+        <li>R</li>
+        <br>
+
+        <li>Matlab, Mathematica, REACT, Bizagui, OFFICE (basic), LATEX...</li>
+        <li>Analytics, ML, AI</li>
+        <li>I+D</li>
+
+    </ul>
+    <br>
+    <hr>
+    <br>
+    <em>Certified languages</em>
+    <br>
+    <br>
+
+        <ul>
+
+            <li>English</li>
+            <li>French</li>
+            <li>Spanish</li>
+
+        </ul>
+    <br>
+    <hr>
+    <br>
+
+  </main>
+</body>
+
+</html>
