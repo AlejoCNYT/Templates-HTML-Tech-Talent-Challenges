@@ -1,0 +1,38 @@
+<!--
+  Hit RUN to see this project in action!
+  
+  This project will auto-refresh as you edit the HTML, CSS and JS. See README.md for more info (including how to disable auto-refresh and install packages).
+-->
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Favorites</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <main>
+        <h2><small><i>Favorite books</i></small></h2>
+        <hr>
+
+        <ol>
+            <br>
+            <li><small><strong>Abre tu mente a los números</strong> - <i>Bárbara Oackley</i></small></li>
+            <br>
+            <li><small><strong>El arte de la guerra</strong> - <i>Sun tzu</i></small></li>
+            <br>
+            <li><small><strong>El nombre de la rosa</strong> - <i>Umberto Eco</i></small></li>
+            <br>
+            <li>...</li>
+        </ol>
+    <hr>
+    <p>Please, follow my <a href="https://www.goodreads.com/user/show/65187583-daniel-alejandro">goodreads</a> :)</p>
+    <hr>
+  </main>
+</body>
+
+</html>
