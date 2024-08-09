@@ -1,0 +1,29 @@
+<!--
+  Hit RUN to see this project in action!
+  
+  This project will auto-refresh as you edit the HTML, CSS and JS. See README.md for more info (including how to disable auto-refresh and install packages).
+-->
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Social Networks</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <main>
+    <h1 class="title">Contact me at: </h1>
+        <ul>
+            <li><a href="https://app.tandem.net/members/daniel_alejandr12511948">Tándem</a></li>
+            <li><a href="https://deepdreamgenerator.com/u/3224322">Deep Dream Generator</a></li>
+            <li><a href="https://co.pinterest.com/danielalejandroacerovarela/">Pinterest</a></li>
+        </ul>
+  </main>
+  
+</body>
+
+</html>
