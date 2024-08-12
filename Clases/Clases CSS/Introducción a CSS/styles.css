@@ -1,0 +1,35 @@
+/* se usa el selector de párrafo */
+p {
+    color: chartreuse;
+}
+
+h1 {
+    color: blue;
+}
+
+h2 {
+    color: blueviolet;
+}
+
+h3 {
+    color:fuchsia;
+}
+
+p {
+    color: indigo;
+    font-size: 40px;
+}
+
+#p-peru {
+    color: peru;
+    font-size: 25px;
+}
+
+#mi_id_unico {
+    color: darkcyan;
+    font-size: 70px;
+}
+
+body {
+    background-color: gray;
+}
