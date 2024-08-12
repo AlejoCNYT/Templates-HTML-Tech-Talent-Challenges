@@ -1,0 +1,33 @@
+<!--
+  Hit RUN to see this project in action!
+  
+  This project will auto-refresh as you edit the HTML, CSS and JS. See README.md for more info (including how to disable auto-refresh and install packages).
+-->
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Site Map</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <main>
+
+    <h1 class="title">Site Map!</h1>
+    <img src="https://th.bing.com/th/id/OIP.rzZ3DMYEtR7OrM_TrL3XXgHaFs?rs=1&pid=ImgDetMain"></img>
+    <p>Lorem <a href="https://cdn.colombia.com/images/v2/turismo/sitios-turisticos/boyaca/puente-de-boyaca-800.jpg">ipsum</a> dolor sit amet consectetur adipisicing elit. Natus, nobis? Illum veniam assumenda doloremque optio asperiores sequi consequatur. Iure, illum. Corporis, deserunt. Ab nemo pariatur esse eaque alias eum est!</p>
+    
+    <br>
+    <h1 class="title">Bogotá</h1>
+    <iframe width="780" height="438" src="https://www.youtube.com/embed/LEw-u2vbeT8" title="Lo MEJOR de BOGOTÁ en 5 días: qué ver, atractivos y sitios 🇨🇴" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda omnis fugiat in iusto quasi hic voluptatem <a href="https://www.bing.com/travel/place-information?moduletype=pano&SID=66b24d5c-468c-2dd6-e6ce-34504b6f6cb4&RID=5&overlay=richcontent&form=TMIRSD">ipsum</a> Iusto repellat, asperiores voluptatibus assumenda qui consequuntur praesentium sit at velit porro repudiandae?</p>
+
+  </main>
+  
+</body>
+
+</html>
