@@ -33,3 +33,32 @@ p {
 body {
     background-color: gray;
 }
+
+footer{
+    background-color: brown;
+}
+
+footer h2{
+    color: white;
+}
+
+.contenedor{
+    background-color: antiquewhite;
+}
+
+.contenedor2{
+    background-color: darkgreen;
+    color: white;
+}
+
+.text-white{
+    color: white;
+}
+
+#Juan_Cardozo{
+    background-color: aqua;
+}
+
+#Caroline_Caicedo{
+
+}
