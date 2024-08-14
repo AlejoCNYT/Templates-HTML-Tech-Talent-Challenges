@@ -1,0 +1,45 @@
+html {
+    font-size: 16px;
+}
+
+.milimetros {
+    font-size: 12mm;
+}
+
+.centimetros {
+    font-size: 1cm;
+}
+
+.pulgadas {
+    font-size: 1in;
+}
+
+.puntos {
+    font-size: 10pt;
+}
+
+.picas {
+    font-size: 2pc;
+}
+
+.pixeles {
+    font-size: 24px;
+}
+
+h1 {
+    font-size: 4rem;
+}
+
+body {
+    font-size: 5px;
+}
+
+div {
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 2em;
+}
+
+
