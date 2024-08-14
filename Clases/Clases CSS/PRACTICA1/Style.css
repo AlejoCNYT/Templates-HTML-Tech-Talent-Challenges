@@ -1,0 +1,50 @@
+/*
+    primary = #D04848
+    secondary = #F3B95F
+    light = #FDE767
+    info = #6895D2
+*/
+
+.bg-primary {
+    background-color: #D04848;
+}
+
+.bg-secondary {
+    background-color: #F3B95F;
+}
+
+.bg-light {
+    background-color: #FDE767;
+}
+
+.bg-info {
+    background-color: #6895D2;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-primary {
+    color: #D04848;
+}
+
+.text-light {
+    color: #FDE767;
+}
+
+.text-info {
+    color: #6895D2;
+}
+
+.text-white {
+    color: white;
+}
+
+.w-200 {
+    width: 200px;
+}
+
+.table {
+    width: 100%;
+}
