@@ -1,0 +1,113 @@
+/*
+
+    primary = #ef476f
+    secondary = #ffd166
+    danger = #06d6a0
+    info = #118ab2
+
+*/
+
+html {
+    box-sizing: border-box;
+}
+
+::before, 
+::after {
+    box-sizing: inherit;
+}
+
+body {
+      font-family: "Antonio", sans-serif;
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+    max-width: 600px;
+}
+
+.logo {
+    display: block;
+    text-decoration:dotted;
+    font-size: 3rem;
+    text-align: center;
+    color: white;
+    padding: 0.5em;
+    background-color: #ef476f;
+}
+
+.mt-2 {
+    margin-top: 2rem;
+}
+
+.btn{
+    display:inline-block;
+    text-decoration: none;
+    font-size: 1rem;
+    padding: 0.5em;
+    margin: 0 0.1em;
+    border-radius: 0.5em;
+}
+
+.btn-primary {
+    color: white;
+    background-color: #ef476f;
+}
+
+.btn-secondary {
+    color: white;
+    background-color: #ffd166; 
+}
+
+.btn-danger {
+    color: white;
+    background-color: #06d6a0; 
+}
+
+.btn-info {
+    color: white;
+    background-color: #118ab2 
+}
+
+.center {
+text-align: center;
+}
+
+.card {
+    width: 300px;
+    background-color: #ffd166;
+    color: white;
+    border-radius: 0.5em;
+}
+
+.card-img {
+    width: 100%;
+}
+
+.card-body {
+    padding: 1em;
+}
+
+.card-body h5 {
+    font-size: 1.5rem;
+    margin: 1em 0;
+    font-weight: 1700;
+}
+
+.card-body {
+    font-weight: 300;
+}
+
+.btn-google {
+    display:inline-block;
+    text-decoration: none;
+    font-size: 1rem;
+    padding: 0.5em;
+    margin: 0 0.1em;
+    border-radius: 0.5em;
+    color: white;
+    background-color: #118ab2 
+}
+
+
