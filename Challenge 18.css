@@ -1,0 +1,39 @@
+html {
+    box-sizing: border-box;
+}
+
+.btn {
+    display: ruby;
+    text-decoration: none;
+    font-size: 1rem;
+    padding: 0.5em;
+    margin: 0 0.1em;
+    border-radius: 0.5em;
+}
+
+.btn-1 {
+    color: white;
+    background-color: aqua;
+    padding: 1.5em;
+    margin-inline-start: auto;
+    border-style: inset;
+}
+
+.btn-2 {
+    color: white;
+    background-color:darkorange;
+    padding: 1.0em;
+    margin-inline-end: 1.3em;
+    border-style: groove;
+}
+
+.btn-3 {
+    padding-bottom: 10%;
+    color:white;
+    background-color:darkolivegreen;
+    padding: 0.8em;
+    margin-inline-start: 3em;
+    border-style: ridge;
+}
+
+
