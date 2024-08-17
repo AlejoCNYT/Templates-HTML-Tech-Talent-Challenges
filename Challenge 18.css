@@ -4,11 +4,10 @@ html {
 
 .btn {
     display: ruby;
-    text-decoration: none;
     font-size: 1rem;
-    padding: 0.5em;
+    padding: 5.5em;
     margin: 0 0.1em;
-    border-radius: 0.5em;
+    border-radius: 7.5em;
 }
 
 .btn-1 {
@@ -17,6 +16,7 @@ html {
     padding: 1.5em;
     margin-inline-start: auto;
     border-style: inset;
+    text-decoration: none;
 }
 
 .btn-2 {
