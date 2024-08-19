@@ -83,6 +83,7 @@ body {
 .main-title {
     text-align: center;
     text-transform: uppercase;
+    color: black;
 }
 
 .card {
@@ -95,4 +96,104 @@ body {
 
 .card-img {
     width:100%;
+}
+
+.card-body {
+    padding: 1em;
+}
+
+.card-body h5 {
+    font-size: 1.5rem;
+    margin:1em 0;
+    font-weight: 500;
+}
+
+.card-body p {
+    font-weight: 300;
+}
+
+.btn {
+    display: inline-block;
+    text-decoration: none;
+    font-size: 1rem;
+    padding: 0.5em;
+    margin: 0 0.1em;
+    border-radius: 0.5em;
+}
+
+.btn-dark {
+    color: white;
+    background-color: #2f2e2e;
+}
+
+.nosotros {
+    display: flex;
+    flex-direction: center;
+    align-items: center;
+    margin-bottom: 1em;
+    background-color: #2f2e2e;
+}
+
+.nosotros-col-img {
+    order: 2;
+    background-image: url("../assets/img/952-1200x800.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 350px;
+    width: 100%;
+}
+
+.nosotros-col-text {
+    order: 1;
+}
+
+.nosotros-body {
+    padding: 1em;
+    text-align: center;
+    color:white
+}
+
+.nosotros-body h2 {
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.nosotros-body p {
+    font-weight: 200;
+}
+
+.btn-danger {
+    color: white;
+    background-color: #a6464E;
+}
+
+@media (min-width: 768px){
+    .tienda {
+        display: flex;
+        gap: 1em;
+    }
+}
+
+@media (min-width: 576px) {
+    .nosotros-col-img {
+        height: 500px;
+    }
+}
+
+@media (min-width: 768px){
+    .nosotros {
+        flex-direction: row;
+    }
+
+    .nosotros-col-img {
+        order: 1;
+        flex: 1 1 0;
+    }
+
+    .nosotros-col-text {
+        order: 2;
+        flex: 1 1 0;
+    }
+
 }
