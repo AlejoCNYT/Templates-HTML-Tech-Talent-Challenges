@@ -1,0 +1,37 @@
+html {
+    box-sizing: border-box;
+    background-color: black;
+    color: green;
+}
+
+.container-centered {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contenedor {
+    display: flex;
+    align-items: center;
+    height: 400px;    
+    text-orientation: upright;
+
+}
+
+.contenedor p {
+    writing-mode: vertical-lr;
+    text-orientation: upright;
+}
+
+.texto-corrido {
+    animation: correr 2s infinite linear;
+  }
+  
+  @keyframes correr {
+    100% {
+      transform: translateY(100%);
+    }
+    0% {
+      transform: translateY(-50%);
+    }
+  }
