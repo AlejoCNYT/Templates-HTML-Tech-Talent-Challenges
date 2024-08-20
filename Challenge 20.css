@@ -1,0 +1,19 @@
+html {
+    box-sizing: border-box;
+}
+
+ul {
+    margin: 10px;
+    padding: 10;
+    margin-top: 10%;
+    color: antiquewhite;
+    background-color: aquamarine;
+  }
+  
+li {
+    margin: 10px 0; /* 10px de margen superior e inferior, 0 a los lados */
+    padding: 10;
+    margin-block-start: 40%;
+    color:brown;
+    background-color: burlywood;
+  }
