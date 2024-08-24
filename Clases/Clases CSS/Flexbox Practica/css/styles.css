@@ -197,3 +197,14 @@ body {
     }
 
 }
+
+.bg-footer {
+    background-color: #214037;
+    color: #e2f2c9;
+}
+
+.bg-footer p {
+    padding: 1em;
+    margin: 0;
+    text-align: center;
+}
