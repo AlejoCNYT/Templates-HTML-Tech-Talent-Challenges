@@ -1,0 +1,12 @@
+html {
+    box-sizing: border-box;
+}
+
+.bdr {
+    border: 2.1em ridge gainsboro;
+    border-radius: 2.3px;
+}
+
+.op {
+    opacity: 0.7;
+}
