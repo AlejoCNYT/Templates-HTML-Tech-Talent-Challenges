@@ -1,0 +1,76 @@
+.border {
+    border: 2px black solid;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    align-content: space-evenly;
+}
+
+.item {
+    background-color: orange;
+    text-align: center;
+    border: solid;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    width: 200px;
+}
+
+.h-700 {
+    height: 700px;
+}
+
+.h-200 {
+    height: 200px;
+}
+
+.order-1 {
+    order: 1;
+}
+
+.order-2 {
+    order: 2;
+}
+
+.order-3 {
+    order: 3;
+}
+
+.flex-grow-1 {
+    flex-grow: 1;
+}
+
+.flex-grow-3 {
+    flex-grow: 3;
+}
+
+.flex-grow-4 {
+    flex-grow: 4;
+}
+
+.flex-shrink-1 {
+    flex-shrink: 1;
+    flex-basis: 100px;
+}
+
+.flex-shrink-0 {
+    flex-shrink: 0;
+}
+
+.flex-shrink-2 {
+    flex-shrink: 2;
+}
+
+.flex-shrink-3 {
+    flex-shrink: 3;
+    flex-basis: 100px;
+}
+
+.flex-1 {
+    flex: 1 0 300; /* flex-grow | flex-shrink | flex-basis */
+}
